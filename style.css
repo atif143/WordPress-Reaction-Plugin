@@ -1,0 +1,16 @@
+.fakebook-reactions-bar {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.reaction-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0 10px;
+}
+
+.reaction-btn:hover {
+    opacity: 0.7;
+}
